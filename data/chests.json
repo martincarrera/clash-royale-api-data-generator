@@ -1758,7 +1758,7 @@
     },
     "arena":10,
     "order":88
-  }
+  },
   {
     "name":"Epic Chest",
     "unlock":{
@@ -1798,5 +1798,5 @@
     },
     "arena":10,
     "order":90
-  },
+  }
 ]

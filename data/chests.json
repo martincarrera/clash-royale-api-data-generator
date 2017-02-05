@@ -7,8 +7,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":20,
-      "max":25
+      "min":21,
+      "max":24
     },
     "cards":{
       "number":3,
@@ -16,7 +16,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":1
+    "arena":1,
+    "order":1
   },
   {
     "name":"Silver Chest",
@@ -26,8 +27,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":16,
-      "max":20
+      "min":15,
+      "max":21
     },
     "cards":{
       "number":3,
@@ -35,7 +36,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":1
+    "arena":1,
+    "order":2
   },
   {
     "name":"Golden Chest",
@@ -45,8 +47,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":55,
-      "max":65
+      "min":50,
+      "max":70
     },
     "cards":{
       "number":10,
@@ -54,7 +56,8 @@
       "minEpic":0,
       "minRare":1
     },
-    "arena":1
+    "arena":1,
+    "order":3
   },
   {
     "name":"Crown Chest",
@@ -64,8 +67,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":130,
-      "max":170
+      "min":140,
+      "max":160
     },
     "cards":{
       "number":20,
@@ -73,7 +76,8 @@
       "minEpic":0,
       "minRare":2
     },
-    "arena":1
+    "arena":1,
+    "order":4
   },
   {
     "name":"Magical Chest",
@@ -83,8 +87,8 @@
     },
     "gemCost":320,
     "gold":{
-      "min":160,
-      "max":200
+      "min":150,
+      "max":210
     },
     "cards":{
       "number":30,
@@ -92,7 +96,8 @@
       "minEpic":1,
       "minRare":6
     },
-    "arena":1
+    "arena":1,
+    "order":5
   },
   {
     "name":"Giant Chest",
@@ -102,8 +107,8 @@
     },
     "gemCost":210,
     "gold":{
-      "min":430,
-      "max":530
+      "min":400,
+      "max":560
     },
     "cards":{
       "number":80,
@@ -111,7 +116,8 @@
       "minEpic":0,
       "minRare":8
     },
-    "arena":1
+    "arena":1,
+    "order":6
   },
   {
     "name":"Super Magical Chest",
@@ -121,8 +127,8 @@
     },
     "gemCost":1600,
     "gold":{
-      "min":960,
-      "max":1200
+      "min":900,
+      "max":1260
     },
     "cards":{
       "number":180,
@@ -130,7 +136,48 @@
       "minEpic":6,
       "minRare":36
     },
-    "arena":1
+    "arena":1,
+    "order":7
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":6,
+      "minLegendary":0,
+      "minEpic":6,
+      "minRare":0
+    },
+    "arena":1,
+    "order":8
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":1,
+    "order":9
   },
   {
     "name":"Wooden Chest",
@@ -140,8 +187,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":27,
-      "max":34
+      "min":28,
+      "max":32
     },
     "cards":{
       "number":4,
@@ -149,7 +196,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":2
+    "arena":2,
+    "order":10
   },
   {
     "name":"Silver Chest",
@@ -159,8 +207,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":22,
-      "max":27
+      "min":20,
+      "max":28
     },
     "cards":{
       "number":4,
@@ -168,7 +216,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":2
+    "arena":2,
+    "order":11
   },
   {
     "name":"Golden Chest",
@@ -178,8 +227,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":74,
-      "max":88
+      "min":70,
+      "max":98
     },
     "cards":{
       "number":14,
@@ -187,7 +236,8 @@
       "minEpic":0,
       "minRare":1
     },
-    "arena":2
+    "arena":2,
+    "order":12
   },
   {
     "name":"Crown Chest",
@@ -197,8 +247,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":176,
-      "max":230
+      "min":189,
+      "max":216
     },
     "cards":{
       "number":27,
@@ -206,7 +256,8 @@
       "minEpic":0,
       "minRare":2
     },
-    "arena":2
+    "arena":2,
+    "order":13
   },
   {
     "name":"Magical Chest",
@@ -216,8 +267,8 @@
     },
     "gemCost":400,
     "gold":{
-      "min":216,
-      "max":270
+      "min":205,
+      "max":287
     },
     "cards":{
       "number":41,
@@ -225,7 +276,8 @@
       "minEpic":1,
       "minRare":8
     },
-    "arena":2
+    "arena":2,
+    "order":14
   },
   {
     "name":"Giant Chest",
@@ -235,8 +287,8 @@
     },
     "gemCost":250,
     "gold":{
-      "min":581,
-      "max":716
+      "min":540,
+      "max":756
     },
     "cards":{
       "number":108,
@@ -244,7 +296,8 @@
       "minEpic":0,
       "minRare":10
     },
-    "arena":2
+    "arena":2,
+    "order":15
   },
   {
     "name":"Super Magical Chest",
@@ -254,8 +307,8 @@
     },
     "gemCost":2100,
     "gold":{
-      "min":1296,
-      "max":1620
+      "min":1215,
+      "max":1701
     },
     "cards":{
       "number":243,
@@ -263,7 +316,48 @@
       "minEpic":8,
       "minRare":48
     },
-    "arena":2
+    "arena":2,
+    "order":16
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":8,
+      "minLegendary":0,
+      "minEpic":8,
+      "minRare":0
+    },
+    "arena":2,
+    "order":17
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":2,
+    "order":18
   },
   {
     "name":"Wooden Chest",
@@ -273,8 +367,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":34,
-      "max":43
+      "min":35,
+      "max":40
     },
     "cards":{
       "number":5,
@@ -282,7 +376,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":3
+    "arena":3,
+    "order":19
   },
   {
     "name":"Silver Chest",
@@ -292,8 +387,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":27,
-      "max":34
+      "min":25,
+      "max":35
     },
     "cards":{
       "number":5,
@@ -301,7 +396,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":3
+    "arena":3,
+    "order":20
   },
   {
     "name":"Golden Chest",
@@ -311,8 +407,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":94,
-      "max":111
+      "min":85,
+      "max":119
     },
     "cards":{
       "number":17,
@@ -320,7 +416,8 @@
       "minEpic":0,
       "minRare":1
     },
-    "arena":3
+    "arena":3,
+    "order":21
   },
   {
     "name":"Crown Chest",
@@ -330,8 +427,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":221,
-      "max":289
+      "min":238,
+      "max":272
     },
     "cards":{
       "number":34,
@@ -339,7 +436,8 @@
       "minEpic":0,
       "minRare":3
     },
-    "arena":3
+    "arena":3,
+    "order":22
   },
   {
     "name":"Magical Chest",
@@ -349,8 +447,8 @@
     },
     "gemCost":470,
     "gold":{
-      "min":272,
-      "max":340
+      "min":255,
+      "max":357
     },
     "cards":{
       "number":51,
@@ -358,7 +456,8 @@
       "minEpic":1,
       "minRare":10
     },
-    "arena":3
+    "arena":3,
+    "order":23
   },
   {
     "name":"Giant Chest",
@@ -368,8 +467,8 @@
     },
     "gemCost":300,
     "gold":{
-      "min":731,
-      "max":901
+      "min":680,
+      "max":952
     },
     "cards":{
       "number":136,
@@ -377,7 +476,8 @@
       "minEpic":0,
       "minRare":13
     },
-    "arena":3
+    "arena":3,
+    "order":24
   },
   {
     "name":"Super Magical Chest",
@@ -387,8 +487,8 @@
     },
     "gemCost":2500,
     "gold":{
-      "min":1632,
-      "max":2040
+      "min":1539,
+      "max":2142
     },
     "cards":{
       "number":306,
@@ -396,7 +496,48 @@
       "minEpic":10,
       "minRare":61
     },
-    "arena":3
+    "arena":3,
+    "order":25
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":10,
+      "minLegendary":0,
+      "minEpic":10,
+      "minRare":0
+    },
+    "arena":3,
+    "order":26
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":3,
+    "order":27
   },
   {
     "name":"Wooden Chest",
@@ -406,8 +547,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":40,
-      "max":50
+      "min":42,
+      "max":48
     },
     "cards":{
       "number":6,
@@ -415,7 +556,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":4
+    "arena":4,
+    "order":28
   },
   {
     "name":"Silver Chest",
@@ -425,8 +567,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":32,
-      "max":40
+      "min":30,
+      "max":42
     },
     "cards":{
       "number":6,
@@ -434,7 +576,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":4
+    "arena":4,
+    "order":29
   },
   {
     "name":"Golden Chest",
@@ -444,8 +587,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":110,
-      "max":130
+      "min":100,
+      "max":140
     },
     "cards":{
       "number":20,
@@ -453,7 +596,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":4
+    "arena":4,
+    "order":30
   },
   {
     "name":"Crown Chest",
@@ -463,8 +607,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":260,
-      "max":340
+      "min":280,
+      "max":320
     },
     "cards":{
       "number":40,
@@ -472,7 +616,8 @@
       "minEpic":0,
       "minRare":4
     },
-    "arena":4
+    "arena":4,
+    "order":31
   },
   {
     "name":"Magical Chest",
@@ -482,8 +627,8 @@
     },
     "gemCost":500,
     "gold":{
-      "min":320,
-      "max":400
+      "min":300,
+      "max":420
     },
     "cards":{
       "number":60,
@@ -491,7 +636,8 @@
       "minEpic":2,
       "minRare":12
     },
-    "arena":4
+    "arena":4,
+    "order":32
   },
   {
     "name":"Giant Chest",
@@ -501,8 +647,8 @@
     },
     "gemCost":320,
     "gold":{
-      "min":860,
-      "max":1060
+      "min":800,
+      "max":1120
     },
     "cards":{
       "number":160,
@@ -510,7 +656,8 @@
       "minEpic":0,
       "minRare":16
     },
-    "arena":4
+    "arena":4,
+    "order":33
   },
   {
     "name":"Super Magical Chest",
@@ -520,8 +667,8 @@
     },
     "gemCost":2800,
     "gold":{
-      "min":1920,
-      "max":2400
+      "min":1800,
+      "max":2520
     },
     "cards":{
       "number":360,
@@ -529,7 +676,48 @@
       "minEpic":12,
       "minRare":72
     },
-    "arena":4
+    "arena":4,
+    "order":34
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":12,
+      "minLegendary":0,
+      "minEpic":12,
+      "minRare":0
+    },
+    "arena":4,
+    "order":35
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":4,
+    "order":36
   },
   {
     "name":"Wooden Chest",
@@ -539,8 +727,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":46,
-      "max":58
+      "min":49,
+      "max":56
     },
     "cards":{
       "number":7,
@@ -548,7 +736,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":5
+    "arena":5,
+    "order":37
   },
   {
     "name":"Silver Chest",
@@ -558,8 +747,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":37,
-      "max":46
+      "min":35,
+      "max":49
     },
     "cards":{
       "number":7,
@@ -567,7 +756,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":5
+    "arena":5,
+    "order":38
   },
   {
     "name":"Golden Chest",
@@ -577,8 +767,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":127,
-      "max":150
+      "min":115,
+      "max":161
     },
     "cards":{
       "number":23,
@@ -586,7 +776,8 @@
       "minEpic":0,
       "minRare":2
     },
-    "arena":5
+    "arena":5,
+    "order":39
   },
   {
     "name":"Crown Chest",
@@ -596,8 +787,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":299,
-      "max":391
+      "min":322,
+      "max":368
     },
     "cards":{
       "number":46,
@@ -605,7 +796,8 @@
       "minEpic":0,
       "minRare":4
     },
-    "arena":5
+    "arena":5,
+    "order":40
   },
   {
     "name":"Magical Chest",
@@ -615,8 +807,8 @@
     },
     "gemCost":600,
     "gold":{
-      "min":368,
-      "max":460
+      "min":345,
+      "max":483
     },
     "cards":{
       "number":69,
@@ -624,7 +816,8 @@
       "minEpic":2,
       "minRare":13
     },
-    "arena":5
+    "arena":5,
+    "order":41
   },
   {
     "name":"Giant Chest",
@@ -634,8 +827,8 @@
     },
     "gemCost":350,
     "gold":{
-      "min":989,
-      "max":1219
+      "min":920,
+      "max":1188
     },
     "cards":{
       "number":184,
@@ -643,7 +836,8 @@
       "minEpic":0,
       "minRare":18
     },
-    "arena":5
+    "arena":5,
+    "order":42
   },
   {
     "name":"Super Magical Chest",
@@ -653,8 +847,8 @@
     },
     "gemCost":3100,
     "gold":{
-      "min":2208,
-      "max":2760
+      "min":2070,
+      "max":2898
     },
     "cards":{
       "number":414,
@@ -662,7 +856,48 @@
       "minEpic":13,
       "minRare":82
     },
-    "arena":5
+    "arena":5,
+    "order":43
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":13,
+      "minLegendary":0,
+      "minEpic":13,
+      "minRare":0
+    },
+    "arena":5,
+    "order":44
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":5,
+    "order":45
   },
   {
     "name":"Wooden Chest",
@@ -672,8 +907,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":52,
-      "max":65
+      "min":56,
+      "max":64
     },
     "cards":{
       "number":8,
@@ -681,7 +916,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":6
+    "arena":6,
+    "order":46
   },
   {
     "name":"Silver Chest",
@@ -691,8 +927,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":42,
-      "max":52
+      "min":40,
+      "max":56
     },
     "cards":{
       "number":8,
@@ -700,7 +936,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":6
+    "arena":6,
+    "order":47
   },
   {
     "name":"Golden Chest",
@@ -710,8 +947,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":143,
-      "max":169
+      "min":130,
+      "max":182
     },
     "cards":{
       "number":26,
@@ -719,7 +956,8 @@
       "minEpic":0,
       "minRare":2
     },
-    "arena":6
+    "arena":6,
+    "order":48
   },
   {
     "name":"Crown Chest",
@@ -729,8 +967,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":338,
-      "max":442
+      "min":364,
+      "max":416
     },
     "cards":{
       "number":52,
@@ -738,7 +976,8 @@
       "minEpic":0,
       "minRare":5
     },
-    "arena":6
+    "arena":6,
+    "order":49
   },
   {
     "name":"Magical Chest",
@@ -748,8 +987,8 @@
     },
     "gemCost":600,
     "gold":{
-      "min":416,
-      "max":520
+      "min":390,
+      "max":546
     },
     "cards":{
       "number":78,
@@ -757,7 +996,8 @@
       "minEpic":2,
       "minRare":15
     },
-    "arena":6
+    "arena":6,
+    "order":50
   },
   {
     "name":"Giant Chest",
@@ -767,8 +1007,8 @@
     },
     "gemCost":380,
     "gold":{
-      "min":1118,
-      "max":1378
+      "min":1040,
+      "max":1456
     },
     "cards":{
       "number":208,
@@ -776,7 +1016,8 @@
       "minEpic":0,
       "minRare":20
     },
-    "arena":6
+    "arena":6,
+    "order":51
   },
   {
     "name":"Super Magical Chest",
@@ -786,8 +1027,8 @@
     },
     "gemCost":3400,
     "gold":{
-      "min":2496,
-      "max":3120
+      "min":2340,
+      "max":3276
     },
     "cards":{
       "number":468,
@@ -795,7 +1036,48 @@
       "minEpic":15,
       "minRare":93
     },
-    "arena":6
+    "arena":6,
+    "order":52
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":15,
+      "minLegendary":0,
+      "minEpic":15,
+      "minRare":0
+    },
+    "arena":6,
+    "order":53
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":6,
+    "order":54
   },
   {
     "name":"Wooden Chest",
@@ -805,8 +1087,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":58,
-      "max":73
+      "min":63,
+      "max":72
     },
     "cards":{
       "number":9,
@@ -814,7 +1096,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":7
+    "arena":7,
+    "order":55
   },
   {
     "name":"Silver Chest",
@@ -824,8 +1107,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":46,
-      "max":58
+      "min":45,
+      "max":63
     },
     "cards":{
       "number":9,
@@ -833,7 +1116,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":7
+    "arena":7,
+    "order":56
   },
   {
     "name":"Golden Chest",
@@ -843,8 +1127,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":160,
-      "max":189
+      "min":145,
+      "max":203
     },
     "cards":{
       "number":29,
@@ -852,7 +1136,8 @@
       "minEpic":0,
       "minRare":2
     },
-    "arena":7
+    "arena":7,
+    "order":57
   },
   {
     "name":"Crown Chest",
@@ -862,8 +1147,8 @@
     },
     "gemCost":0,
     "gold":{
-      "min":377,
-      "max":493
+      "min":406,
+      "max":464
     },
     "cards":{
       "number":58,
@@ -871,7 +1156,8 @@
       "minEpic":0,
       "minRare":5
     },
-    "arena":7
+    "arena":7,
+    "order":58
   },
   {
     "name":"Magical Chest",
@@ -881,8 +1167,8 @@
     },
     "gemCost":700,
     "gold":{
-      "min":464,
-      "max":580
+      "min":435,
+      "max":609
     },
     "cards":{
       "number":87,
@@ -890,7 +1176,8 @@
       "minEpic":2,
       "minRare":17
     },
-    "arena":7
+    "arena":7,
+    "order":59
   },
   {
     "name":"Giant Chest",
@@ -900,8 +1187,8 @@
     },
     "gemCost":410,
     "gold":{
-      "min":1247,
-      "max":1537
+      "min":1160,
+      "max":1624
     },
     "cards":{
       "number":232,
@@ -909,7 +1196,8 @@
       "minEpic":0,
       "minRare":23
     },
-    "arena":7
+    "arena":7,
+    "order":60
   },
   {
     "name":"Super Magical Chest",
@@ -919,8 +1207,8 @@
     },
     "gemCost":3700,
     "gold":{
-      "min":2784,
-      "max":3480
+      "min":2610,
+      "max":3654
     },
     "cards":{
       "number":522,
@@ -928,140 +1216,48 @@
       "minEpic":17,
       "minRare":104
     },
-    "arena":7
+    "arena":7,
+    "order":61
   },
   {
-    "name":"Wooden Chest",
-    "unlock":{
-      "time":240,
-      "gemCost":24
-    },
-    "gemCost":0,
-    "gold":{
-      "min":76,
-      "max":95
-    },
-    "cards":{
-      "number":11,
-      "minLegendary":0,
-      "minEpic":0,
-      "minRare":1
-    },
-    "arena":9
-  },
-  {
-    "name":"Silver Chest",
-    "unlock":{
-      "time":180,
-      "gemCost":18
-    },
-    "gemCost":0,
-    "gold":{
-      "min":61,
-      "max":76
-    },
-    "cards":{
-      "number":11,
-      "minLegendary":0,
-      "minEpic":0,
-      "minRare":0
-    },
-    "arena":9
-  },
-  {
-    "name":"Golden Chest",
-    "unlock":{
-      "gemCost":48,
-      "time":480
-    },
-    "gemCost":0,
-    "gold":{
-      "min":209,
-      "max":247
-    },
-    "cards":{
-      "number":38,
-      "minLegendary":0,
-      "minEpic":0,
-      "minRare":3
-    },
-    "arena":9
-  },
-  {
-    "name":"Crown Chest",
+    "name":"Epic Chest",
     "unlock":{
       "gemCost":144,
       "time":1440
     },
     "gemCost":0,
     "gold":{
-      "min":494,
-      "max":646
+      "min":0,
+      "max":0
     },
     "cards":{
-      "number":76,
+      "number":17,
       "minLegendary":0,
+      "minEpic":17,
+      "minRare":0
+    },
+    "arena":7,
+    "order":62
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
       "minEpic":0,
-      "minRare":7
+      "minRare":0
     },
-    "arena":9
-  },
-  {
-    "name":"Magical Chest",
-    "unlock":{
-      "gemCost":72,
-      "time":720
-    },
-    "gemCost":800,
-    "gold":{
-      "min":608,
-      "max":760
-    },
-    "cards":{
-      "number":114,
-      "minLegendary":0,
-      "minEpic":3,
-      "minRare":22
-    },
-    "arena":9
-  },
-  {
-    "name":"Giant Chest",
-    "unlock":{
-      "gemCost":72,
-      "time":720
-    },
-    "gemCost":490,
-    "gold":{
-      "min":1634,
-      "max":2014
-    },
-    "cards":{
-      "number":304,
-      "minLegendary":0,
-      "minEpic":0,
-      "minRare":30
-    },
-    "arena":9
-  },
-  {
-    "name":"Super Magical Chest",
-    "unlock":{
-      "gemCost":72,
-      "time":720
-    },
-    "gemCost":4600,
-    "gold":{
-      "min":3648,
-      "max":4560
-    },
-    "cards":{
-      "number":684,
-      "minLegendary":0,
-      "minEpic":22,
-      "minRare":136
-    },
-    "arena":9
+    "arena":7,
+    "order":63
   },
   {
     "name":"Wooden Chest",
@@ -1080,7 +1276,8 @@
       "minEpic":0,
       "minRare":1
     },
-    "arena":8
+    "arena":8,
+    "order":64
   },
   {
     "name":"Silver Chest",
@@ -1099,7 +1296,8 @@
       "minEpic":0,
       "minRare":0
     },
-    "arena":8
+    "arena":8,
+    "order":65
   },
   {
     "name":"Golden Chest",
@@ -1118,7 +1316,8 @@
       "minEpic":0,
       "minRare":3
     },
-    "arena":8
+    "arena":8,
+    "order":66
   },
   {
     "name":"Crown Chest",
@@ -1137,7 +1336,8 @@
       "minEpic":0,
       "minRare":6
     },
-    "arena":8
+    "arena":8,
+    "order":67
   },
   {
     "name":"Magical Chest",
@@ -1156,7 +1356,8 @@
       "minEpic":3,
       "minRare":19
     },
-    "arena":8
+    "arena":8,
+    "order":68
   },
   {
     "name":"Giant Chest",
@@ -1175,7 +1376,8 @@
       "minEpic":0,
       "minRare":25
     },
-    "arena":8
+    "arena":8,
+    "order":69
   },
   {
     "name":"Super Magical Chest",
@@ -1194,7 +1396,48 @@
       "minEpic":19,
       "minRare":115
     },
-    "arena":8
+    "arena":8,
+    "order":70
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":19,
+      "minLegendary":0,
+      "minEpic":19,
+      "minRare":0
+    },
+    "arena":8,
+    "order":71
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":8,
+    "order":72
   },
   {
     "name":"Wooden Chest",
@@ -1204,35 +1447,37 @@
     },
     "gemCost":0,
     "gold":{
-      "min":20,
-      "max":25
+      "min":77,
+      "max":88
     },
     "cards":{
-      "number":3,
+      "number":11,
       "minLegendary":0,
       "minEpic":0,
-      "minRare":0
+      "minRare":1
     },
-    "arena":9
+    "arena":9,
+    "order":73
   },
   {
     "name":"Silver Chest",
     "unlock":{
-      "gemCost":18,
-      "time":180
+      "time":180,
+      "gemCost":18
     },
     "gemCost":0,
     "gold":{
-      "min":16,
-      "max":20
+      "min":55,
+      "max":77
     },
     "cards":{
-      "number":3,
+      "number":11,
       "minLegendary":0,
       "minEpic":0,
       "minRare":0
     },
-    "arena":9
+    "arena":9,
+    "order":74
   },
   {
     "name":"Golden Chest",
@@ -1242,16 +1487,197 @@
     },
     "gemCost":0,
     "gold":{
-      "min":55,
-      "max":65
+      "min":175,
+      "max":245
     },
     "cards":{
-      "number":10,
+      "number":35,
+      "minLegendary":0,
+      "minEpic":0,
+      "minRare":3
+    },
+    "arena":9,
+    "order":75
+  },
+  {
+    "name":"Crown Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":490,
+      "max":560
+    },
+    "cards":{
+      "number":70,
+      "minLegendary":0,
+      "minEpic":0,
+      "minRare":7
+    },
+    "arena":9,
+    "order":76
+  },
+  {
+    "name":"Magical Chest",
+    "unlock":{
+      "gemCost":72,
+      "time":720
+    },
+    "gemCost":800,
+    "gold":{
+      "min":525,
+      "max":735
+    },
+    "cards":{
+      "number":105,
+      "minLegendary":0,
+      "minEpic":3,
+      "minRare":21
+    },
+    "arena":9,
+    "order":77
+  },
+  {
+    "name":"Giant Chest",
+    "unlock":{
+      "gemCost":72,
+      "time":720
+    },
+    "gemCost":460,
+    "gold":{
+      "min":1400,
+      "max":1960
+    },
+    "cards":{
+      "number":280,
+      "minLegendary":0,
+      "minEpic":0,
+      "minRare":28
+    },
+    "arena":9,
+    "order":78
+  },
+  {
+    "name":"Super Magical Chest",
+    "unlock":{
+      "gemCost":72,
+      "time":720
+    },
+    "gemCost":4300,
+    "gold":{
+      "min":3150,
+      "max":4410
+    },
+    "cards":{
+      "number":630,
+      "minLegendary":0,
+      "minEpic":21,
+      "minRare":126
+    },
+    "arena":9,
+    "order":79
+  },
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":20,
+      "minLegendary":0,
+      "minEpic":20,
+      "minRare":0
+    },
+    "arena":9,
+    "order":80
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":9,
+    "order":81
+  },
+  {
+    "name":"Wooden Chest",
+    "unlock":{
+      "time":240,
+      "gemCost":24
+    },
+    "gemCost":0,
+    "gold":{
+      "min":84,
+      "max":96
+    },
+    "cards":{
+      "number":12,
       "minLegendary":0,
       "minEpic":0,
       "minRare":1
     },
-    "arena":9
+    "arena":10,
+    "order":82
+  },
+  {
+    "name":"Silver Chest",
+    "unlock":{
+      "gemCost":18,
+      "time":180
+    },
+    "gemCost":0,
+    "gold":{
+      "min":60,
+      "max":84
+    },
+    "cards":{
+      "number":12,
+      "minLegendary":0,
+      "minEpic":0,
+      "minRare":1
+    },
+    "arena":10,
+    "order":83
+  },
+  {
+    "name":"Golden Chest",
+    "unlock":{
+      "gemCost":48,
+      "time":480
+    },
+    "gemCost":0,
+    "gold":{
+      "min":190,
+      "max":266
+    },
+    "cards":{
+      "number":38,
+      "minLegendary":0,
+      "minEpic":0,
+      "minRare":3
+    },
+    "arena":10,
+    "order":84
   },
   {
     "name":"Crown Chest",
@@ -1261,16 +1687,17 @@
     },
     "gemCost":0,
     "gold":{
-      "min":130,
-      "max":170
+      "min":532,
+      "max":608
     },
     "cards":{
-      "number":20,
+      "number":76,
       "minLegendary":0,
       "minEpic":0,
-      "minRare":2
+      "minRare":7
     },
-    "arena":9
+    "arena":10,
+    "order":85
   },
   {
     "name":"Magical Chest",
@@ -1278,18 +1705,19 @@
       "gemCost":72,
       "time":720
     },
-    "gemCost":320,
+    "gemCost":800,
     "gold":{
-      "min":160,
-      "max":200
+      "min":570,
+      "max":798
     },
     "cards":{
-      "number":30,
+      "number":114,
       "minLegendary":0,
-      "minEpic":1,
-      "minRare":6
+      "minEpic":3,
+      "minRare":22
     },
-    "arena":9
+    "arena":10,
+    "order":86
   },
   {
     "name":"Giant Chest",
@@ -1297,18 +1725,19 @@
       "gemCost":72,
       "time":720
     },
-    "gemCost":210,
+    "gemCost":490,
     "gold":{
-      "min":430,
-      "max":530
+      "min":1520,
+      "max":2128
     },
     "cards":{
-      "number":80,
+      "number":304,
       "minLegendary":0,
       "minEpic":0,
-      "minRare":8
+      "minRare":30
     },
-    "arena":9
+    "arena":10,
+    "order":87
   },
   {
     "name":"Super Magical Chest",
@@ -1316,17 +1745,58 @@
       "gemCost":72,
       "time":720
     },
-    "gemCost":1600,
+    "gemCost":4600,
     "gold":{
-      "min":960,
-      "max":1200
+      "min":3420,
+      "max":4788
     },
     "cards":{
-      "number":180,
+      "number":684,
       "minLegendary":0,
-      "minEpic":6,
-      "minRare":36
+      "minEpic":22,
+      "minRare":136
     },
-    "arena":9
+    "arena":10,
+    "order":88
+  }
+  {
+    "name":"Epic Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":0,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":20,
+      "minLegendary":0,
+      "minEpic":20,
+      "minRare":0
+    },
+    "arena":10,
+    "order":89
+  },
+  {
+    "name":"Legendary Chest",
+    "unlock":{
+      "gemCost":144,
+      "time":1440
+    },
+    "gemCost":500,
+    "gold":{
+      "min":0,
+      "max":0
+    },
+    "cards":{
+      "number":1,
+      "minLegendary":1,
+      "minEpic":0,
+      "minRare":0
+    },
+    "arena":10,
+    "order":90
   },
 ]

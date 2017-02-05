@@ -13,7 +13,8 @@
       "range": 7,
       "damage": 50,
       "hitSpeed": 1
-    }
+    },
+    "order":1
   },
   {
     "level": 2,
@@ -29,7 +30,8 @@
       "range": 7,
       "damage": 53,
       "hitSpeed": 1
-    }
+    },
+    "order":2
   },
   {
     "level": 3,
@@ -45,7 +47,8 @@
       "range": 7,
       "damage": 57,
       "hitSpeed": 1
-    }
+    },
+    "order":3
   },
   {
     "level": 4,
@@ -61,7 +64,8 @@
       "range": 7,
       "damage": 60,
       "hitSpeed": 1
-    }
+    },
+    "order":4
   },
   {
     "level": 5,
@@ -77,7 +81,8 @@
       "range": 7,
       "damage": 64,
       "hitSpeed": 1
-    }
+    },
+    "order":5
   },
   {
     "level": 6,
@@ -93,7 +98,8 @@
       "range": 7,
       "damage": 69,
       "hitSpeed": 1
-    }
+    },
+    "order":6
   },
   {
     "level": 7,
@@ -109,7 +115,8 @@
       "range": 7,
       "damage": 73,
       "hitSpeed": 1
-    }
+    },
+    "order":7
   },
   {
     "level": 8,
@@ -125,7 +132,8 @@
       "range": 7,
       "damage": 78,
       "hitSpeed": 1
-    }
+    },
+    "order":8
   },
   {
     "level": 9,
@@ -141,7 +149,8 @@
       "range": 7,
       "damage": 83,
       "hitSpeed": 1
-    }
+    },
+    "order":9
   },
   {
     "level": 10,
@@ -157,7 +166,8 @@
       "range": 7,
       "damage": 91,
       "hitSpeed": 1
-    }
+    },
+    "order":10
   },
   {
     "level": 11,
@@ -173,7 +183,8 @@
       "range": 7,
       "damage": 100,
       "hitSpeed": 1
-    }
+    },
+    "order":11
   },
   {
     "level": 12,
@@ -189,7 +200,8 @@
       "range": 7,
       "damage": 110,
       "hitSpeed": 1
-    }
+    },
+    "order":12
   },
   {
     "level": 13,
@@ -205,6 +217,7 @@
       "range": 7,
       "damage": 121,
       "hitSpeed": 1
-    }
+    },
+    "order":13
   }
 ]

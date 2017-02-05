@@ -13,7 +13,8 @@
         "common": 0,
         "rare": 0
       }
-    }
+    },
+    "order":0
   },
   {
     "number": 1,
@@ -29,7 +30,8 @@
         "common": 10,
         "rare": 1
       }
-    }
+    },
+    "order":1
   },
   {
     "number": 2,
@@ -45,7 +47,8 @@
         "common": 10,
         "rare": 1
       }
-    }
+    },
+    "order":2
   },
   {
     "number": 3,
@@ -61,7 +64,8 @@
         "common": 10,
         "rare": 1
       }
-    }
+    },
+    "order":3
   },
   {
     "number": 4,
@@ -77,7 +81,8 @@
         "common": 20,
         "rare": 2
       }
-    }
+    },
+    "order":4
   },
   {
     "number": 5,
@@ -93,7 +98,8 @@
         "common": 20,
         "rare": 2
       }
-    }
+    },
+    "order":5
   },
   {
     "number": 6,
@@ -109,7 +115,8 @@
         "common": 20,
         "rare": 2
       }
-    }
+    },
+    "order":6
   },
   {
     "number": 7,
@@ -125,7 +132,8 @@
         "common": 30,
         "rare": 3
       }
-    }
+    },
+    "order":7
   },
   {
     "number": 8,
@@ -141,7 +149,8 @@
         "common": 30,
         "rare": 3
       }
-    }
+    },
+    "order":8
   },
   {
     "number": 9,
@@ -157,7 +166,8 @@
         "common": 30,
         "rare": 3
       }
-    }
+    },
+    "order":9
   },
   {
     "number": 10,
@@ -173,6 +183,7 @@
         "common": 40,
         "rare": 4
       }
-    }
+    },
+    "order":10
   }
 ]

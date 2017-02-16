@@ -95,7 +95,7 @@
     "name": "Skeleton Army",
     "description": "Summons an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.",
     "arena": 0,
-    "elixirCost": 4,
+    "elixirCost": 3,
     "order":11
   },
   {

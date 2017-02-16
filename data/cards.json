@@ -165,7 +165,7 @@
     "rarity": "Common",
     "type": "Troop",
     "name": "Skeletons",
-    "description": "Three fast, very weak melee fighters. Surround your enemies with this pile of bones!",
+    "description": "Four fast, very weak melee fighters. Surround your enemies with this pile of bones!",
     "arena": 2,
     "elixirCost": 1,
     "order":19

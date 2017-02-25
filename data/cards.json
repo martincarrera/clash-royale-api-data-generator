@@ -158,7 +158,7 @@
     "name": "Goblin Barrel",
     "description": "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
     "arena": 1,
-    "elixirCost": 4,
+    "elixirCost": 3,
     "order":18
   },
   {

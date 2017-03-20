@@ -176,7 +176,8 @@
     "name": "Minions",
     "description": "Three fast, unarmored flying attackers. Roses are red, minions are blue, they can fly, and will crush you!",
     "arena": 2,
-    "elixirCost": 3
+    "elixirCost": 3,
+    "order":20
   },
   {
     "rarity": "Rare",
@@ -185,7 +186,7 @@
     "description": "Troop building that periodically deploys Skeletons to fight the enemy. When destroyed, spawns 4 Skeletons. Creepy!",
     "arena": 2,
     "elixirCost": 3,
-    "order":20
+    "order":21
   },
   {
     "rarity": "Rare",
@@ -194,7 +195,7 @@
     "description": "Defensive building that houses a Bomber. Deals area damage to anything dumb enough to stand near it.",
     "arena": 2,
     "elixirCost": 5,
-    "order":21
+    "order":22
   },
   {
     "rarity": "Epic",
@@ -203,7 +204,7 @@
     "description": "The bigger the skeleton, the bigger the bomb. Carries a bomb that blows up when the Giant Skeleton dies.",
     "arena": 2,
     "elixirCost": 6,
-    "order":22
+    "order":23
   },
   {
     "rarity": "Epic",
@@ -212,7 +213,7 @@
     "description": "As pretty as they are, you won't want a parade of THESE balloons showing up on the horizon. Drops powerful bombs and when shot down, crashes dealing area damage.",
     "arena": 2,
     "elixirCost": 5,
-    "order":23
+    "order":24
   },
   {
     "rarity": "Common",
@@ -221,7 +222,7 @@
     "description": "Defensive building. Shoots cannonballs with deadly effect, but cannot target flying troops.",
     "arena": 3,
     "elixirCost": 3,
-    "order":24
+    "order":25
   },
   {
     "rarity": "Common",
@@ -230,7 +231,7 @@
     "description": "A horde of melee attackers with mean mustaches and even meaner tempers.",
     "arena": 3,
     "elixirCost": 5,
-    "order":25
+    "order":26
   },
   {
     "rarity": "Rare",
@@ -239,7 +240,7 @@
     "description": "Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.",
     "arena": 3,
     "elixirCost": 6,
-    "order":26
+    "order":27
   },
   {
     "rarity": "Rare",
@@ -248,7 +249,7 @@
     "description": "Troop building that periodically deploys Barbarians to fight the enemy. Time to make the Barbarians.",
     "arena": 3,
     "elixirCost": 7,
-    "order":27
+    "order":28
   },
   {
     "rarity": "Epic",
@@ -257,7 +258,7 @@
     "description": "Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!",
     "arena": 3,
     "elixirCost": 2,
-    "order":28
+    "order":29
   },
   {
     "rarity": "Epic",
@@ -266,7 +267,7 @@
     "description": "Nice tower you got there. Would be a shame if this X-Bow whittled it down from his side of the Arena...",
     "arena": 3,
     "elixirCost": 6,
-    "order":29
+    "order":30
   },
   {
     "rarity": "Common",
@@ -275,7 +276,7 @@
     "description": "Defensive building. Whenever it's not zapping the enemy, the power of Electrickery is best kept grounded.",
     "arena": 4,
     "elixirCost": 4,
-    "order":30
+    "order":31
   },
   {
     "rarity": "Common",
@@ -284,7 +285,7 @@
     "description": "Six fast, unarmored flying attackers. Three's a croud, six is a horde!",
     "arena": 4,
     "elixirCost": 5,
-    "order":31
+    "order":32
   },
   {
     "rarity": "Rare",
@@ -293,7 +294,7 @@
     "description": "Defensive building, roasts targets for damage that increases over time. Burns through even the biggest and toughest enemies!",
     "arena": 4,
     "elixirCost": 5,
-    "order":32
+    "order":33
   },
   {
     "rarity": "Rare",
@@ -302,7 +303,7 @@
     "description": "Fast melee troop that targets buildings and can jump over the river. He followed the echoing call of \"Hog Riderrrrr\" all the way through the Arena Doors.",
     "arena": 4,
     "elixirCost": 4,
-    "order":33
+    "order":34
   },
   {
     "rarity": "Epic",
@@ -311,7 +312,7 @@
     "description": "Freezes troops and buildings, making them unable to move or attack. Everybody chill.",
     "arena": 4,
     "elixirCost": 4,
-    "order":34
+    "order":35
   },
   {
     "rarity": "Epic",
@@ -320,7 +321,7 @@
     "description": "A heavily armored, slow melee fighter. Swings from the hip but packs a huge punch.",
     "arena": 4,
     "elixirCost": 7,
-    "order":35
+    "order":36
   },
   {
     "rarity": "Legendary",
@@ -329,7 +330,7 @@
     "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
     "elixirCost": 4,
     "arena": 4,
-    "order":36
+    "order":37
   },
   {
     "rarity": "Legendary",
@@ -338,7 +339,7 @@
     "description": "The Lava Hound is a majestic flying beast that attacks buildings. The Lava Pups are less majestic angry babies that attack anything.",
     "arena": 4,
     "elixirCost": 7,
-    "order":37
+    "order":38
   },
   {
     "rarity": "Common",
@@ -347,7 +348,7 @@
     "description": "Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.",
     "arena": 5,
     "elixirCost": 2,
-    "order":38
+    "order":39
   },
   {
     "rarity": "Common",
@@ -356,7 +357,7 @@
     "description": "These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire.",
     "arena": 5,
     "elixirCost": 2,
-    "order":39
+    "order":40
   },
   {
     "rarity": "Rare",
@@ -365,7 +366,7 @@
     "description": "The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.",
     "arena": 5,
     "elixirCost": 4,
-    "order":40
+    "order":41
   },
   {
     "rarity": "Rare",
@@ -374,7 +375,7 @@
     "description": "The most awesome man to ever set foot in the arena, the Wizard will blow you away with his handsomeness... and/or fireballs.",
     "arena": 5,
     "elixirCost": 5,
-    "order":41
+    "order":42
   },
   {
     "rarity": "Epic",
@@ -383,7 +384,7 @@
     "description": "Covers the area in a sticky toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure!",
     "arena": 5,
     "elixirCost": 4,
-    "order":42
+    "order":43
   },
   {
     "rarity": "Epic",
@@ -392,7 +393,7 @@
     "description": "Mirrors your last card played for +1 Elixir",
     "arena": 5,
     "elixirCost": 0,
-    "order":43
+    "order":44
   },
   {
     "rarity": "Legendary",
@@ -401,7 +402,7 @@
     "description": "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
     "arena": 5,
     "elixirCost": 5,
-    "order":44
+    "order":45
   },
   {
     "rarity": "Legendary",
@@ -410,7 +411,7 @@
     "description": "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.",
     "arena": 5,
     "elixirCost": 3,
-    "order":45
+    "order":46
   },
   {
     "rarity": "Common",
@@ -419,7 +420,7 @@
     "description": "Defensive building with a long range. Shoots exploding boulders that deal area damage. Cannot shoot at targets that get very close!",
     "arena": 6,
     "elixirCost": 4,
-    "order":46
+    "order":47
   },
   {
     "rarity": "Rare",
@@ -428,7 +429,7 @@
     "description": "You gotta spend Elixir to make Elixir.",
     "arena": 6,
     "elixirCost": 6,
-    "order":47
+    "order":48
   },
   {
     "rarity": "Rare",
@@ -437,7 +438,7 @@
     "description": "Two Barbarians holding a log charge at the nearest building, dealing significant damage if they connect; then they go to town with their swords!",
     "arena": 6,
     "elixirCost": 4,
-    "order":48
+    "order":49
   },
   {
     "rarity": "Epic",
@@ -446,7 +447,7 @@
     "description": "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
     "arena": 6,
     "elixirCost": 3,
-    "order":49
+    "order":50
   },
   {
     "rarity": "Epic",
@@ -455,7 +456,7 @@
     "description": "Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!",
     "arena": 6,
     "elixirCost": 8,
-    "order":50
+    "order":51
   },
   {
     "rarity": "Legendary",
@@ -464,7 +465,7 @@
     "description": "A spilt bottle of Rage turned an innocent tree trunk into \"The Log\". Now it seeks revenge by crushing anything in its path!",
     "elixirCost": 2,
     "arena": 6,
-    "order":51
+    "order":52
   },
   {
     "rarity": "Legendary",
@@ -473,7 +474,7 @@
     "description": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
     "arena": 6,
     "elixirCost": 6,
-    "order":52
+    "order":53
   },
   {
     "rarity": "Legendary",
@@ -482,7 +483,7 @@
     "description": "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
     "arena": 6,
     "elixirCost": 3,
-    "order":53
+    "order":54
   },
   {
     "rarity": "Common",
@@ -491,7 +492,7 @@
     "description": "Spawns a pair of leveled up Barbarians. They're like regular Barbarians, only harder, better, faster and stronger.",
     "arena": 7,
     "elixirCost": 6,
-    "order":54
+    "order":55
   },
   {
     "rarity": "Common",
@@ -500,7 +501,7 @@
     "description": "Destroying enemy buildings with his massive cannon is his job; making a raggedy blond beard look good is his passion.",
     "arena": 7,
     "elixirCost": 6,
-    "order":55
+    "order":56
   },
   {
     "rarity": "Rare",
@@ -509,7 +510,7 @@
     "description": "Flying, armored and powerful. What could be its weakness?! Cupcakes.",
     "elixirCost": 3,
     "arena": 7,
-    "order":56
+    "order":57
   },
   {
     "rarity": "Rare",
@@ -518,7 +519,7 @@
     "description": "Trio of powerful, independent markswomen, fighting for justice and honor. Disrespecting them would not be just a mistake, it would be a cardinal sin!",
     "arena": 7,
     "elixirCost": 9,
-    "order":57
+    "order":58
   },
   {
     "rarity": "Epic",
@@ -527,7 +528,7 @@
     "description": "The Dark Prince deals area damage and lets his spiked club do the talking for him - because when he does talk, it sounds like he has a bucket on his head.",
     "arena": 7,
     "elixirCost": 4,
-    "order":58
+    "order":59
   },
   {
     "rarity": "Epic",
@@ -536,7 +537,7 @@
     "description": "Three ruthless bone brothers with shields. Knock off their shields and all that's left are three ruthless bone brothers.",
     "arena": 7,
     "elixirCost": 3,
-    "order":59
+    "order":60
   },
   {
     "rarity": "Legendary",
@@ -545,7 +546,7 @@
     "description": "He lands with a \"POW!\", stuns nearby enemies and shoots lightning with both hands! What a show off.",
     "arena": 7,
     "elixirCost": 4,
-    "order":60
+    "order":61
   },
   {
     "rarity": "Legendary",
@@ -554,7 +555,16 @@
     "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
     "arena": 7,
     "elixirCost": 3,
-    "order":61
+    "order":62
+  },
+  {
+    "rarity": "Common",
+    "type": "Troop",
+    "name": "Bats",
+    "description": "Five tiny flying creatures with big ears. Having big ears doesn't mean they'll listen when asked to stop attacking you.",
+    "arena": 8,
+    "elixirCost": 2,
+    "order":63
   },
   {
     "rarity": "Common",
@@ -563,7 +573,7 @@
     "description": "Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.",
     "arena": 8,
     "elixirCost": 1,
-    "order":62
+    "order":64
   },
   {
     "rarity": "Common",
@@ -572,7 +582,7 @@
     "description": "He's though, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
     "arena": 8,
     "elixirCost": 2,
-    "order":63
+    "order":65
   },
   {
     "rarity": "Epic",
@@ -581,7 +591,7 @@
     "description": "Doubles your troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
     "arena": 8,
     "elixirCost": 3,
-    "order":64
+    "order":66
   },
   {
     "rarity": "Epic",
@@ -590,7 +600,16 @@
     "description": "This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!",
     "arena": 8,
     "elixirCost": 5,
-    "order":65
+    "order":67
+  },
+  {
+    "rarity": "Epic",
+    "type": "Troop",
+    "name": "Night Witch",
+    "description": "Summons Bats to do her bidding, even after death! And if you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
+    "arena": 8,
+    "elixirCost": 4,
+    "order":68
   },
   {
     "rarity": "Legendary",
@@ -599,7 +618,7 @@
     "description": "He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he dies.",
     "arena": 8,
     "elixirCost": 4,
-    "order":66
+    "order":69
   },
   {
     "rarity": "Common",
@@ -608,7 +627,7 @@
     "description": "Spawns six Goblins - three with knives, three with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
     "arena": 9,
     "elixirCost": 3,
-    "order":67
+    "order":70
   },
   {
     "rarity": "Rare",
@@ -617,7 +636,7 @@
     "description": "Runs fast, shoots far and chews gum. How does he blow darts with a mouth full of gum? Years of didgeridoo lessons.",
     "arena": 9,
     "elixirCost": 3,
-    "order":68
+    "order":71
   },
   {
     "rarity": "Epic",
@@ -626,6 +645,24 @@
     "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose his arm.",
     "arena": 9,
     "elixirCost": 5,
-    "order":69
+    "order":72
+  },
+  {
+    "rarity": "Rare",
+    "type": "Spell",
+    "name": "Heal",
+    "description": "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
+    "arena": 10,
+    "elixirCost": 3,
+    "order":73
+  },
+  {
+    "rarity": "Legendary",
+    "type": "Troop",
+    "name": "Bandit",
+    "description": "The Bandit dashes to her target and delivers an extra big hit! While dashing, she can't be touched. The mask keeps her indentity safe... and gives her bonus cool points!",
+    "arena": 9,
+    "elixirCost": 3,
+    "order":74
   }
 ]

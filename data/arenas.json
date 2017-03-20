@@ -171,7 +171,7 @@
   },
   {
     "number": 10,
-    "name": "Legendary Arena",
+    "name": "Hog Mountain",
     "victoryGold": 20,
     "minTrophies": 3000,
     "clan": {
@@ -185,5 +185,23 @@
       }
     },
     "order":10
+  }
+  ,
+  {
+    "number": 11,
+    "name": "Legendary Arena",
+    "victoryGold": 22,
+    "minTrophies": 3800,
+    "clan": {
+      "donate": {
+        "common": 8,
+        "rare": 1
+      },
+      "request": {
+        "common": 40,
+        "rare": 4
+      }
+    },
+    "order":11
   }
 ]

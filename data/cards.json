@@ -624,7 +624,7 @@
     "rarity": "Common",
     "type": "Troop",
     "name": "Goblin Gang",
-    "description": "Spawns six Goblins - three with knives, three with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
+    "description": "Spawns five Goblins - three with knives, two with spears - at a discounted Elixir cost. It's like a Goblin Value Pack!",
     "arena": 9,
     "elixirCost": 3,
     "order":70

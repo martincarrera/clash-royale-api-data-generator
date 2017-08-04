@@ -664,5 +664,14 @@
     "arena": 9,
     "elixirCost": 3,
     "order":74
+  },
+  {
+    "rarity": "Epic",
+    "type": "Troop",
+    "name": "Cannon Cart",
+    "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
+    "arena": 10,
+    "elixirCost": 5,
+    "order": 75
   }
 ]

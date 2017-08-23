@@ -673,5 +673,14 @@
     "arena": 10,
     "elixirCost": 5,
     "order": 75
+  },
+  {
+    "rarity": "Legendary",
+    "type": "Troop",
+    "name": "Mega Knight",
+    "description": "He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!",
+    "arena": 10,
+    "elixirCost": 7, 
+    "order": 76
   }
 ]

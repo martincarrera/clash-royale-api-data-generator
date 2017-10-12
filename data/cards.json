@@ -632,11 +632,20 @@
   {
     "rarity": "Rare",
     "type": "Troop",
+    "name": "Flying Machine",
+    "description": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
+    "arena": 9,
+    "elixirCost": 4,
+    "order": 71
+  },
+  {
+    "rarity": "Rare",
+    "type": "Troop",
     "name": "Dart Goblin",
     "description": "Runs fast, shoots far and chews gum. How does he blow darts with a mouth full of gum? Years of didgeridoo lessons.",
     "arena": 9,
     "elixirCost": 3,
-    "order":71
+    "order":72
   },
   {
     "rarity": "Epic",
@@ -645,15 +654,6 @@
     "description": "He throws his axe like a boomerang, striking all enemies on the way out AND back. It's a miracle he doesn't lose his arm.",
     "arena": 9,
     "elixirCost": 5,
-    "order":72
-  },
-  {
-    "rarity": "Rare",
-    "type": "Spell",
-    "name": "Heal",
-    "description": "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
-    "arena": 10,
-    "elixirCost": 3,
     "order":73
   },
   {
@@ -666,13 +666,22 @@
     "order":74
   },
   {
+    "rarity": "Rare",
+    "type": "Spell",
+    "name": "Heal",
+    "description": "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
+    "arena": 10,
+    "elixirCost": 3,
+    "order":75
+  },
+  {
     "rarity": "Epic",
     "type": "Troop",
     "name": "Cannon Cart",
     "description": "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
     "arena": 10,
     "elixirCost": 5,
-    "order": 75
+    "order": 76
   },
   {
     "rarity": "Legendary",
@@ -681,15 +690,6 @@
     "description": "He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!",
     "arena": 10,
     "elixirCost": 7, 
-    "order": 76
-  },
-  {
-    "rarity": "Rare",
-    "type": "Troop",
-    "name": "Flying Machine",
-    "description": "The Master Builder has sent his first contraption to the Arena! It's a fast and fun flying machine, but fragile!",
-    "arena": 9,
-    "elixirCost": 4,
     "order": 77
   }
 ]

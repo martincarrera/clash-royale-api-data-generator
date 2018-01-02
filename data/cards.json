@@ -691,5 +691,14 @@
     "arena": 10,
     "elixirCost": 7, 
     "order": 77
+  },
+  {
+    "rarity": "Legendary",
+    "type": "Troop",
+    "name": "Royal Ghost",
+    "description": "He drifts invisibly through the Arena until he's started by an enemy... then he attacks! Then he's invisible again! Zzzz.",
+    "arena": 10,
+    "elixirCost": 3, 
+    "order": 79
   }
 ]

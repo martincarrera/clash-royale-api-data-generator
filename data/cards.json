@@ -700,5 +700,14 @@
     "arena": 6,
     "elixirCost": 3,
     "order": 78
+  },
+  {
+    "rarity": "Rare",
+    "type": "Troop",
+    "name": "Zappies",
+    "description": "Spawns a pack of miniature Zap machines. Who controls them...? Only the Master Builder knows.",
+    "arena": 11,
+    "elixirCost": 4,
+    "order": 80
   }
 ]

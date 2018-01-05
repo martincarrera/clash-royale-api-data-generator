@@ -693,6 +693,15 @@
     "order": 77
   },
   {
+    "rarity": "Common",
+    "type": "Troop",
+    "name": "Skeleton Barrel",
+    "description": "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
+    "arena": 6,
+    "elixirCost": 3,
+    "order": 78
+  },
+  {   
     "rarity": "Legendary",
     "type": "Troop",
     "name": "Royal Ghost",

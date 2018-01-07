@@ -718,5 +718,14 @@
     "arena": 11,
     "elixirCost": 4,
     "order": 80
+  },
+  {
+    "rarity": "Epic",
+    "type": "Troop",
+    "name": "Hunter",
+    "description": "He deals BIG damage up close - not so much at range. What he lacks in accuracy, he makes up for with his impressively bushy eyebrows.",
+    "arena": 9,
+    "elixirCost": 4,
+    "order": 81
   }
 ]

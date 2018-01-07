@@ -2185,5 +2185,63 @@
     "league":9,
     "order":108,
     "numberOfChoices":8
+  },
+  {
+    "name":"Lightning Chest",
+    "description": "Replace card stacks of your choice! The power is yours!",
+    "unlock":{
+      "gemCost":0,
+      "time":0
+    },
+    "gemCost":250,
+    "gold":{
+      "min":630,
+      "max":630
+    },
+    "cards":{
+      "number":125,
+      "minLegendary":0,
+      "minEpic":2,
+      "minRare":20
+    },
+    "order":109
+  },
+  {
+    "name":"Fortune Chest",
+    "unlock":{
+      "gemCost":0,
+      "time":0
+    },
+    "gemCost":750,
+    "gold":{
+      "min":1800,
+      "max":1800
+    },
+    "cards":{
+      "number":250,
+      "minLegendary":1,
+      "minEpic":8,
+      "minRare":50
+    },
+    "order":110
+  },
+  {
+    "name":"Legendary King's Chest",
+    "unlock":{
+      "gemCost":2500,
+      "time":0
+    },
+    "gemCost":2500,
+    "gold":{
+      "min":4200,
+      "max":4200
+    },
+    "cards":{
+      "number":350,
+      "minLegendary":1,
+      "minEpic":23,
+      "minRare":70
+    },
+    "order":111
   }
 ]

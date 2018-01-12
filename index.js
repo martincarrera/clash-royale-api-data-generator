@@ -2,10 +2,6 @@ require('dotenv').load()
 const request = require('request-promise-native')
 
 const { arenas, cards, players, chests, leagues } = require('./data')
-// const cards = require('./data/cards.json')
-// const players = require('./data/players.json')
-// const chests = require('./data/chests.json')
-// const leagues = require('./data/leagues.json')
 const user = {
   username: process.env.ADMIN_USERNAME || 'admin',
   password: process.env.ADMIN_PASSWORD || 'admin',

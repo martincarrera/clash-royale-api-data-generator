@@ -6,7 +6,7 @@ const user = {
   username: process.env.ADMIN_USERNAME || 'admin',
   password: process.env.ADMIN_PASSWORD || 'admin',
 }
-const uri = 'http://localhost:8085/'
+const uri = process.env.URI || 'http://localhost:8085/'
 
 const authOptions = {
   method: 'POST',

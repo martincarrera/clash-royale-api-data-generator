@@ -31,4 +31,11 @@ module.exports = [
       "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
     elixirCost: 3,
   },
+  {
+    rarity: 'Epic',
+    type: 'Spell',
+    name: 'Barbarian Barrel',
+    descrption: "It rolls, knocks back and damages anything in the way - then breaks and out pops a Barbarian! How did he get inside?!",
+    elixirCost: 3
+  },
 ]

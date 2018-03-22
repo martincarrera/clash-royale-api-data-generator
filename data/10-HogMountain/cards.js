@@ -6,6 +6,7 @@ module.exports = [
     description:
       "Heal your troops to keep them in the fight! Friendly troops are healed over time while in the target area. Doesn't affect buildings.",
     elixirCost: 3,
+    copyId: '28000016',
   },
   {
     rarity: 'Epic',
@@ -14,6 +15,7 @@ module.exports = [
     description:
       "A Cannon on wheels?! Bet they won't see that coming! Once you break its shield, it becomes a Cannon not on wheels.",
     elixirCost: 5,
+    copyId: '26000054',
   },
   {
     rarity: 'Legendary',
@@ -22,6 +24,7 @@ module.exports = [
     description:
       'He lands with the force of 1,000 mustaches, then jumps from one foe to the next dealing huge area damage. Stand aside!',
     elixirCost: 7,
+    copyId: '26000055',
   },
   {
     rarity: 'Legendary',
@@ -30,5 +33,6 @@ module.exports = [
     description:
       "He drifts invisibly through the Arena until he's startled by an enemy... then he attacks! Then he's invisible again! Zzzz.",
     elixirCost: 3,
+    copyId: '26000050',
   },
 ]

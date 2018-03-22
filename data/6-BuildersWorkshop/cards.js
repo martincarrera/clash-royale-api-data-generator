@@ -6,6 +6,7 @@ module.exports = [
     description:
       'Defensive building with a long range. Shoots exploding boulders that deal area damage. Cannot shoot at targets that get very close!',
     elixirCost: 4,
+    copyId: '27000002',
   },
   {
     rarity: 'Common',
@@ -14,6 +15,7 @@ module.exports = [
     description:
       "It's a Skeleton party in the sky, until all the balloons pop... then it's a Skeleton party on the ground!",
     elixirCost: 3,
+    copyId: '26000056',
   },
   {
     rarity: 'Rare',
@@ -21,6 +23,7 @@ module.exports = [
     name: 'Elixir Collector',
     description: 'You gotta spend Elixir to make Elixir.',
     elixirCost: 6,
+    copyId: '27000007',
   },
   {
     rarity: 'Rare',
@@ -29,6 +32,7 @@ module.exports = [
     description:
       'Two Barbarians holding a log charge at the nearest building, dealing significant damage if they connect; then they go to town with their swords!',
     elixirCost: 4,
+    copyId: '',
   },
   {
     rarity: 'Epic',
@@ -37,6 +41,7 @@ module.exports = [
     description:
       "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
     elixirCost: 3,
+    copyId: '26000036',
   },
   {
     rarity: 'Epic',
@@ -45,6 +50,7 @@ module.exports = [
     description:
       'Slow but durable, only attacks buildings. When destroyed, explosively splits into two Golemites and deals area damage!',
     elixirCost: 8,
+    copyId: '26000009',
   },
   {
     rarity: 'Legendary',
@@ -53,6 +59,7 @@ module.exports = [
     description:
       'A spilt bottle of Rage turned an innocent tree trunk into "The Log". Now it seeks revenge by crushing anything in its path!',
     elixirCost: 2,
+    copyId: '28000011',
   },
   {
     rarity: 'Legendary',
@@ -61,6 +68,7 @@ module.exports = [
     description:
       "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
     elixirCost: 6,
+    copyId: '26000033',
   },
   {
     rarity: 'Legendary',
@@ -69,5 +77,6 @@ module.exports = [
     description:
       "The Miner can burrow his way underground and appear anywhere in the Arena. It's not magic, it's a shovel.",
     elixirCost: 3,
+    copyId: '26000032',
   },
 ]

@@ -6,6 +6,7 @@ module.exports = [
     description:
       'Defensive building. Shoots cannonballs with deadly effect, but cannot target flying troops.',
     elixirCost: 3,
+    copyId: '27000000',
   },
   {
     rarity: 'Common',
@@ -14,6 +15,7 @@ module.exports = [
     description:
       'A horde of melee attackers with mean mustaches and even meaner tempers.',
     elixirCost: 5,
+    copyId: '26000008',
   },
   {
     rarity: 'Rare',
@@ -22,6 +24,7 @@ module.exports = [
     description:
       'Deals high damage to a small area. Looks really awesome doing it. Reduced damage to Crown Towers.',
     elixirCost: 6,
+    copyId: '28000003',
   },
   {
     rarity: 'Rare',
@@ -30,6 +33,7 @@ module.exports = [
     description:
       'Troop building that periodically deploys Barbarians to fight the enemy. Time to make the Barbarians.',
     elixirCost: 7,
+    copyId: '27000005',
   },
   {
     rarity: 'Epic',
@@ -38,6 +42,7 @@ module.exports = [
     description:
       'Increases troop movement and attack speed. Buildings attack faster and summon troops quicker, too. Chaaaarge!',
     elixirCost: 2,
+    copyId: '28000002',
   },
   {
     rarity: 'Epic',
@@ -46,5 +51,6 @@ module.exports = [
     description:
       'Nice tower you got there. Would be a shame if this X-Bow whittled it down from his side of the Arena...',
     elixirCost: 6,
+    copyId: '27000008',
   },
 ]

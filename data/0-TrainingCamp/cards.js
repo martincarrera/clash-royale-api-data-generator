@@ -6,6 +6,7 @@ module.exports = [
     description:
       'Arrows pepper a large area, damaging all enemies hit. Reduced damage to Crown Towers.',
     elixirCost: 3,
+    copyId: '28000001'
   },
   {
     rarity: 'Common',
@@ -14,6 +15,7 @@ module.exports = [
     description:
       'Small, lightly protected skeleton that throws bombs. Deals area damage that can wipe out a swarm of enemies.',
     elixirCost: 3,
+    copyId: '26000013',
   },
   {
     rarity: 'Common',
@@ -22,6 +24,7 @@ module.exports = [
     description:
       "A pair of unarmored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
     elixirCost: 3,
+    copyId: '26000001',
   },
   {
     rarity: 'Common',
@@ -30,6 +33,7 @@ module.exports = [
     description:
       "A tough melee fighter. The Barbarian's handsome, cultured cousin. Rumor has it that he was knighted based on the sheer awesomeness of his mustache alone.",
     elixirCost: 3,
+    copyId: '26000000',
   },
   {
     rarity: 'Rare',
@@ -38,6 +42,7 @@ module.exports = [
     description:
       'Annnnnd... Fireball. Incinerates a small area, dealing high damage. Reduced damage to Crown Towers.',
     elixirCost: 4,
+    copyId: '28000000',
   },
   {
     rarity: 'Rare',
@@ -46,6 +51,7 @@ module.exports = [
     description:
       'The Arena is a certified butterfly-free zone. No distractions for P.E.K.K.A., only destruction.',
     elixirCost: 4,
+    copyId: '26000018',
   },
   {
     rarity: 'Rare',
@@ -54,6 +60,7 @@ module.exports = [
     description:
       "Don't be fooled by her delicately coiffed hair, the Musketeer is a mean shot with her trusty boomstick.",
     elixirCost: 4,
+    copyId: '26000014',
   },
   {
     rarity: 'Rare',
@@ -62,6 +69,7 @@ module.exports = [
     description:
       'Slow but durable, only attacks buildings. A real one-man wrecking crew!',
     elixirCost: 5,
+    copyId: '26000003',
   },
   {
     rarity: 'Epic',
@@ -70,6 +78,7 @@ module.exports = [
     description:
       "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
     elixirCost: 5,
+    copyId: '26000016',
   },
   {
     rarity: 'Epic',
@@ -78,6 +87,7 @@ module.exports = [
     description:
       'Flying troop that deals area damage. Baby dragons hatch cute, hungry and ready for barbeque.',
     elixirCost: 4,
+    copyId: '26000015',
   },
   {
     rarity: 'Epic',
@@ -86,6 +96,7 @@ module.exports = [
     description:
       'Summons an army of Skeletons. Meet Larry and his friends Harry, Gerry, Terry, Mary, etc.',
     elixirCost: 3,
+    copyId: '26000012',
   },
   {
     rarity: 'Epic',
@@ -94,5 +105,6 @@ module.exports = [
     description:
       "Summons Skeletons, shoots destructo beams, has glowing pink eyes that unfortunately don't shoot lasers.",
     elixirCost: 5,
+    copyId: '26000007',
   },
 ]

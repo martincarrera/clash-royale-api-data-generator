@@ -6,6 +6,7 @@ module.exports = [
     description:
       'Zaps enemies, briefly stunning them and dealing damage inside a small radius. Reduced damage to Crown Towers.',
     elixirCost: 2,
+    copyId: '28000008',
   },
   {
     rarity: 'Common',
@@ -14,6 +15,7 @@ module.exports = [
     description:
       "These three Fire Spirits are on a kamikaze mission to give you a warm hug. It'd be adorable if they weren't on fire.",
     elixirCost: 2,
+    copyId: '26000031',
   },
   {
     rarity: 'Rare',
@@ -22,6 +24,7 @@ module.exports = [
     description:
       'The Furnace spawns two Fire Spirits at a time. It also makes great brick-oven pancakes.',
     elixirCost: 4,
+    copyId: '27000010',
   },
   {
     rarity: 'Rare',
@@ -30,6 +33,7 @@ module.exports = [
     description:
       'The most awesome man to ever set foot in the arena, the Wizard will blow you away with his handsomeness... and/or fireballs.',
     elixirCost: 5,
+    copyId: '26000017',
   },
   {
     rarity: 'Epic',
@@ -38,13 +42,16 @@ module.exports = [
     description:
       'Covers the area in a sticky toxin, damaging enemy troops and buildings over time. Yet somehow leaves the grass green and healthy. Go figure!',
     elixirCost: 4,
+    copyId: '28000009',
   },
   {
     rarity: 'Epic',
     type: 'Spell',
     name: 'Mirror',
     description: 'Mirrors your last card played for +1 Elixir',
+    copyId: '',
     elixirCost: 0,
+    copyId: '',
   },
   {
     rarity: 'Legendary',
@@ -53,6 +60,7 @@ module.exports = [
     description:
       "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
     elixirCost: 5,
+    copyId: '28000006',
   },
   {
     rarity: 'Legendary',
@@ -61,5 +69,6 @@ module.exports = [
     description:
       "This chill caster throws ice shards that slow down enemies' movement and attack speed. Despite being freezing cold, he has a handlebar mustache that's too hot for TV.",
     elixirCost: 3,
+    copyId: '26000023',
   },
 ]

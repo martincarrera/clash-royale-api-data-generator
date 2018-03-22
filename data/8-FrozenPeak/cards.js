@@ -6,6 +6,7 @@ module.exports = [
     description:
       "Five tiny flying creatures with big ears. Having big ears doesn't mean they'll listen when asked to stop attacking you.",
     elixirCost: 2,
+    copyId: '26000049',
   },
   {
     rarity: 'Common',
@@ -14,6 +15,7 @@ module.exports = [
     description:
       'Spawns one lively little Ice Spirit to freeze a group of enemies. Stay frosty.',
     elixirCost: 1,
+    copyId: '26000030',
   },
   {
     rarity: 'Rare',
@@ -22,6 +24,7 @@ module.exports = [
     description:
       "He's though, targets buildings and explodes when destroyed, slowing nearby enemies. Made entirely out of ice... or is he?! Yes.",
     elixirCost: 2,
+    copyId: '26000038',
   },
   {
     rarity: 'Epic',
@@ -30,6 +33,7 @@ module.exports = [
     description:
       "Doubles your troops in the target area. Cloned troops are fragile, but pack the same punch as the original! Doesn't affect buildings.",
     elixirCost: 3,
+    copyId: '28000013',
   },
   {
     rarity: 'Epic',
@@ -38,6 +42,7 @@ module.exports = [
     description:
       'This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks. His massive boulders roll through their target, hitting everything behind for a strike!',
     elixirCost: 5,
+    copyId: '26000034',
   },
   {
     rarity: 'Legendary',
@@ -46,6 +51,7 @@ module.exports = [
     description:
       "Summons Bats to do her bidding, even after death! And if you get too close, she isn't afraid of pitching in with her mean-looking battle staff.",
     elixirCost: 4,
+    copyId: '26000048',
   },
   {
     rarity: 'Legendary',
@@ -54,5 +60,6 @@ module.exports = [
     description:
       'He chops trees by day and hunts The Log by night. His bottle of Rage spills everywhere when he dies.',
     elixirCost: 4,
+    copyId: '26000035',
   },
 ]

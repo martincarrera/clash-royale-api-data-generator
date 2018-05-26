@@ -53,4 +53,13 @@ module.exports = [
     elixirCost: 3,
     copyId: '26000046',
   },
+  {
+    rarity: 'Common',
+    type: 'Troop',
+    name: 'Rascals',
+    description:
+      "Spawns a mischievous trio of Rascals! The boy takes the lead, while the girls pelt enemies from behind... with slingshots full of Double Trouble Gum!",
+    elixirCost: 5,
+    copyId: '26000053',
+  },
 ]

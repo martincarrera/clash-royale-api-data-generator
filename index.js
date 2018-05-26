@@ -30,7 +30,7 @@ const exec = async () => {
 exec()
 
 const save = async (token, endpoint, objects) => {
-  const promises = [];
+  const promises = []
   objects.forEach(async o => {
     const requestOptions = {
       url: uri + endpoint,

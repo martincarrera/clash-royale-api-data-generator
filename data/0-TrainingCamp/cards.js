@@ -6,7 +6,7 @@ module.exports = [
     description:
       'Arrows pepper a large area, damaging all enemies hit. Reduced damage to Crown Towers.',
     elixirCost: 3,
-    copyId: '28000001'
+    copyId: '28000001',
   },
   {
     rarity: 'Common',

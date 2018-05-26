@@ -29,7 +29,7 @@ const addArena = (item, arena) => {
 // Merge all items
 folders.map(require).forEach((element, index) => {
   Object.keys(element).forEach(collection => {
-    element[collection] = element[collection].map((item) => addArena(item, index))
+    element[collection] = element[collection].map(item => addArena(item, index))
     objects[collection] = [...objects[collection], ...element[collection]]
   })
 })

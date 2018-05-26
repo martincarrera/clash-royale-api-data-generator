@@ -39,7 +39,9 @@ module.exports = [
     rarity: 'Epic',
     type: 'Spell',
     name: 'Barbarian Barrel',
-    descrption: "It rolls, knocks back and damages anything in the way - then breaks and out pops a Barbarian! How did he get inside?!",
-    elixirCost: 3
+    descrption:
+      'It rolls, knocks back and damages anything in the way - then breaks and out pops a Barbarian! How did he get inside?!',
+    elixirCost: 3,
+    copyId: '28000015',
   },
 ]

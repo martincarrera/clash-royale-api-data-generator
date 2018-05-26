@@ -32,7 +32,7 @@ module.exports = [
     description:
       'Two Barbarians holding a log charge at the nearest building, dealing significant damage if they connect; then they go to town with their swords!',
     elixirCost: 4,
-    copyId: '',
+    copyId: '26000036',
   },
   {
     rarity: 'Epic',
@@ -41,7 +41,7 @@ module.exports = [
     description:
       "Drags enemy troops to its center while dealing damage over time, just like a magnet. A big, swirling, Tornado-y magnet. Doesn't affect buildings.",
     elixirCost: 3,
-    copyId: '26000036',
+    copyId: '28000012',
   },
   {
     rarity: 'Epic',

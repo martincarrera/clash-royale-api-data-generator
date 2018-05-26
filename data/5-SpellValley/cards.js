@@ -49,9 +49,8 @@ module.exports = [
     type: 'Spell',
     name: 'Mirror',
     description: 'Mirrors your last card played for +1 Elixir',
-    copyId: '',
+    copyId: '28000006',
     elixirCost: 0,
-    copyId: '',
   },
   {
     rarity: 'Legendary',
@@ -60,7 +59,7 @@ module.exports = [
     description:
       "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
     elixirCost: 5,
-    copyId: '28000006',
+    copyId: '28000010',
   },
   {
     rarity: 'Legendary',

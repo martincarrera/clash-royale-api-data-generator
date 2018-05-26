@@ -50,7 +50,6 @@ module.exports = [
     name: 'Goblin Barrel',
     description:
       "Spawns three Goblins anywhere in the Arena. It's going to be a thrilling ride, boys!",
-
     elixirCost: 3,
     copyId: '28000004',
   },

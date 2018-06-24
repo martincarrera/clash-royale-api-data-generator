@@ -62,4 +62,12 @@ module.exports = [
     elixirCost: 4,
     copyId: '26000035',
   },
+  {
+    rarity: 'Common',
+    type: 'Spell',
+    name: 'Giant Snowball',
+    description: "It's HUGE! Once it began rolling down Frozen Peak, there was no stopping it. Enemies hit are knocked back and slowed donw.",
+    elixirCost: 2,
+    copyId: '26000017'
+  },
 ]

@@ -4,7 +4,7 @@ module.exports = [
     type: 'Troop',
     name: 'Skeletons',
     description:
-      'Four fast, very weak melee fighters. Surround your enemies with this pile of bones!',
+      'Three fast, very weak melee fighters. Surround your enemies with this pile of bones!',
     elixirCost: 1,
     copyId: '26000010',
   },
